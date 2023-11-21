@@ -1,0 +1,14 @@
+{
+  "name": "kriscoart",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @Kriscoart - 👀 I’m interested in Programming - 🌱 I’m currently learning Python and JS",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
